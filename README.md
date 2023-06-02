@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript. It can be played in a web browser and supports both single-player and two-player modes.
+This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript. It can be played in a web browser and supports two-player modes.
 
 ## Demo
 
@@ -9,7 +9,6 @@ You can play the game by visiting the following link: [Tic Tac Toe Game Demo](ht
 ## Features
 
 - Player vs Player mode: Two players can take turns playing the game on the same device.
-- Player vs AI mode: Play against a computer AI opponent with different difficulty levels.
 - Responsive design: The game adapts to different screen sizes, making it playable on desktop and mobile devices.
 
 ## Installation
