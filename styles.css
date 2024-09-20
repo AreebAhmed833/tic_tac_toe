@@ -41,6 +41,11 @@ h1 {
   margin-bottom: 20px;
 }
 
+.board-container {
+  position: relative;
+  display: inline-block;
+}
+
 #board {
   display: grid;
   grid-template-columns: repeat(3, 100px);
@@ -80,4 +85,11 @@ button {
 
 button:hover {
   opacity: 0.8;
+}
+
+#lineCanvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  pointer-events: none; /* Allows clicks to pass through */
 }
